@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sandysgames/static/css/main.18ab8ceb.css",
+    "main.js": "/sandysgames/static/js/main.bbec2aaa.js",
+    "static/js/453.1a16ed4e.chunk.js": "/sandysgames/static/js/453.1a16ed4e.chunk.js",
+    "index.html": "/sandysgames/index.html",
+    "main.18ab8ceb.css.map": "/sandysgames/static/css/main.18ab8ceb.css.map",
+    "main.bbec2aaa.js.map": "/sandysgames/static/js/main.bbec2aaa.js.map",
+    "453.1a16ed4e.chunk.js.map": "/sandysgames/static/js/453.1a16ed4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ab8ceb.css",
+    "static/js/main.bbec2aaa.js"
+  ]
+}
